@@ -4,27 +4,20 @@ Hi, I'm JRichardsz
 FullStack Architect & Developer, Linux and sci-fi fan
 ----------------------------------
 
-I am a software developer with more than thirteen years of experience on writing almost all types of software (web, desktop, mobile, daemon, cli, devops) in all the stages (plan, design, develop, build, release, test, deploy, monitoring) and with a hint of artificial intelligence. 
+I am a software developer with more than thirteen years of experience on writing almost all types of software (web, desktop, mobile, daemon, cli, devops) in all the stages (plan, design, develop, build, release, test, deploy, monitoring) and with a hint of artificial intelligence. Currently working as Software Architect ( > 8 years)
 
 I have an unwavering passion about everything I do, and I give the most of my energy to achieve my goals.
 
-Currently working as Software Architect ( > 8 years)
+Also I'm looking my internal properties file to perform an overclock in my brain and body
 
-About the human...
-
-- I work-out almost every day. 
-- I like creativity and develop new things. 
-- I have an insatiable hunger for knowledge all the time and at the same time the imperative need to document and share it. Stackoverflow seems a good place to do that :D
-- I love movies, series, books, mangas, animes and everything related to sci-fi
-
-## Socials
+# Socials
 
 - https://stackoverflow.com/users/3957754/jrichardsz
+- https://jrichardsz.github.io
+- https://jrichardsz.medium.com
 - https://www.twitter.com/jrichardsz
-- https://jrichardsz.github.io/
-- https://jrichardsz.medium.com/
  
-## Programming Languages
+# Programming Languages
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
@@ -33,13 +26,23 @@ About the human...
 ![Php](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 
-## Badges
+# Badges
 
-<a href="http://www.github.com/jrichardsz"><img src="https://github-readme-stats.vercel.app/api?username=jrichardsz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jrichardsz's GitHub stats" /></a>
+ <table>
+  <tr>
+    <td><a href="http://www.github.com/jrichardsz"><img src="https://github-readme-stats.vercel.app/api?username=jrichardsz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jrichardsz's GitHub stats" /></a></td>
+    <td><img src="/stackoverflow.png" width=200>  </td>
+  </tr>
+</table> 
 
-<a href="http://www.github.com/jrichardsz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jrichardsz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## My creations
+# My Suits
+
+<p align="left">
+  <img src="/startk_suites_v1.png" width=350>  
+</p>
+
+A summarized list of all my creations
 
 |name|tags|devops|
 |:--|:--|:--|
@@ -62,9 +65,10 @@ About the human...
 |[Hello world docker](https://hub.docker.com/repository/docker/jrichardsz/hello-world-docker/general)|devops, docker|Simple, minimal and funny container to test a docker environment|
 |[Podcast.js](https://github.com/podcastjs)|wiki|A simple static site generator for podcasters. [Here](https://podcastjs.github.io) a demo|
 |[Infinite Devops](https://www.infinite-devops.com/)|devops|A podcast of devops currently in spanish. English comming soon|
+|[FuckPress](https://fuckpress.github.io/fuckpress-demo/)|web, rad|Yes, another lightweight, headless and simple static page generator but on html and yaml steroids|
 
 ## Contact
 
-- Feel free to contact publicly using https://github.com/jrichardsz/contact_me/discussions/3
+- Feel free to contact publicly using [this](https://github.com/jrichardsz/contact_me/discussions/3)
 - I like to share my knowledge for free if it is for a non-profit cause or just for learning.
-- For complex or enterprise requirements I can help you as a consultant. Write [here](https://docs.google.com/forms/d/e/1FAIpQLSf9dq1gLExEGLcHaYkVrBndkT0QZuvOsp7PFhzZ5Mg5YxeOyg/viewform?c=0&w=1) but please notify [here](https://github.com/jrichardsz/contact_me/discussions/3)   
+- For complex or enterprise requirements I can help you as a consultant. Write me [here](https://docs.google.com/forms/d/e/1FAIpQLSf9dq1gLExEGLcHaYkVrBndkT0QZuvOsp7PFhzZ5Mg5YxeOyg/viewform?c=0&w=1) but please notify me [here](https://github.com/jrichardsz/contact_me/discussions/3)   
