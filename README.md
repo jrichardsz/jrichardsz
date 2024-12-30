@@ -1,23 +1,28 @@
 Hi, I'm JRichardsz
 =====================================================================================================================================
+![](https://badgen.net/badge/Linux/Since:2014/3988FB)
+![](https://badgen.net/badge/StackOverflow/16K/3988FB)
 
+<br><br>
 FullStack Architect & Developer, Linux and sci-fi fan
 ----------------------------------
 
-I am a software developer with more than thirteen years of experience on writing almost all types of software (web, desktop, mobile, daemon, cli, devops) in all the stages (plan, design, develop, build, release, test, deploy, monitoring) and with a hint of artificial intelligence. Currently working as Software Architect ( > 8 years)
+I am a software developer with more than thirteen years of experience on writing almost all types of software (web, desktop, mobile, daemon, cli, devops) in all the stages (plan, design, develop, build, release, test, deploy, monitoring) and with a hint of artificial intelligence. 
 
 I have an unwavering passion about everything I do, and I give the most of my energy to achieve my goals.
 
-Also I'm looking my internal properties file to perform an overclock in my brain and body
+Currently working as Software Architect ( > 8 years)
 
+<br><br>
 # Socials
 
 - https://stackoverflow.com/users/3957754/jrichardsz
 - https://jrichardsz.github.io
 - https://jrichardsz.medium.com
 - https://www.twitter.com/jrichardsz
- 
-# Programming Languages
+
+<br><br>
+# Programming, scripting, and markup languages
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
@@ -26,6 +31,14 @@ Also I'm looking my internal properties file to perform an overclock in my brain
 ![Php](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 
+<br>
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Groovy](https://badgen.net/badge/Groovy/Groovy/1DA1F2?icon&label)
+
+<br><br>
+
+<!--
 # Badges
 
  <table>
@@ -35,14 +48,14 @@ Also I'm looking my internal properties file to perform an overclock in my brain
   </tr>
 </table> 
 
-
-# My Suits
+<br><br>-->
+# Everybody needs a hobby
 
 <p align="left">
   <img src="/startk_suites_v1.png" width=350>  
 </p>
 
-A summarized list of all my creations
+> This is how I manage my free time... Developing :b
 
 |name|tags|devops|
 |:--|:--|:--|
@@ -66,6 +79,18 @@ A summarized list of all my creations
 |[Podcast.js](https://github.com/podcastjs)|wiki|A simple static site generator for podcasters. [Here](https://podcastjs.github.io) a demo|
 |[Infinite Devops](https://www.infinite-devops.com/)|devops|A podcast of devops currently in spanish. English comming soon|
 |[FuckPress](https://fuckpress.github.io/fuckpress-demo/)|web, rad|Yes, another lightweight, headless and simple static page generator but on html and yaml steroids|
+
+<br><br>
+## Coming soon
+
+|project|desc|
+|:--|:--|
+|TrubCrud|Yes another rapid application development framework|
+|Jarvis|Local ai for developers|
+|Improvements|Configurator & Horus|
+|Badges|Automate the badge generation|
+|Frameworks|Add all the frameworks I know|
+|Repositories|Add a list of all the repositories I created|
 
 ## Contact
 
