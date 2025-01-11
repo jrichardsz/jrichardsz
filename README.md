@@ -4,7 +4,7 @@ Hi, I'm JRichardsz
 ![](https://badgen.net/badge/StackOverflow/16K/3988FB)
 
 <br><br>
-FullStack Architect & Developer, Linux and sci-fi fan
+FullStack Architect & Developer, Linux and sci-fi lover
 ----------------------------------
 
 I am a software developer with more than thirteen years of experience on writing almost all types of software (web, desktop, mobile, daemon, cli, devops) in all the stages (plan, design, develop, build, release, test, deploy, monitoring) and with a hint of artificial intelligence. 
@@ -51,15 +51,16 @@ Currently working as Software Architect ( > 8 years)
 <br><br>-->
 # Everybody needs a hobby
 
-<p align="left">
+> This is how I manage my free time... Developing :b
+
+<p align="center">
   <img src="/startk_suites_v1.png" width=350>  
 </p>
 
-> This is how I manage my free time... Developing :b
-
-|name|tags|devops|
+|name|tags|description|
 |:--|:--|:--|
 |[Miniops](https://github.com/infinite-devops/miniops)|devops|A little and friendly buddy to help you in your devops automations when you can't use jenkins, github actions, etc|
+|[junior-software-developer](https://github.com/open-source-education/junior-software-developer)|initiative|A quickly path for self-taught who want to be a Junior Software Developer|
 |[Easy-webhook-plugin](https://github.com/jrichardsz-software-architect-tools/easy-webhook-plugin)|devops, git, jenkins|Jenkins Plugin that can receive any HTTP post request like webhook, parse the json body, extract values using JSONPath and trigger a jenkins job with those values as job parameters.|
 |[Horus Iam](https://horus-iam.github.io)|security, oauth2|A simple and lightweight oauth2 engine with web console for management and ready to use oauth2 endpoints.|
 |[Eventhos](https://github.com/usil/eventhos)|architecture, event driven, webhook|Platform that applies some event-driven architecture principles to allow the team to orchestrate their system integrations using a simple user interface instead of complicated publisher and subscriber patterns|
@@ -85,7 +86,7 @@ Currently working as Software Architect ( > 8 years)
 
 |project|desc|
 |:--|:--|
-|TrubCrud|Yes another rapid application development framework|
+|TurboCrud|Yes another rapid application development framework|
 |Jarvis|Local ai for developers|
 |Improvements|Configurator & Horus|
 |Badges|Automate the badge generation|
